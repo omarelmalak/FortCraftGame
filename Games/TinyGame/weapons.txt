@@ -1,0 +1,14 @@
+SCAR
+an assault rifle
+2
+[20, 40]
+
+RPG
+an explosive weapon
+3
+[40, 70]
+
+PISTOLS
+a set of 2 pistols
+1
+[10, 20]
